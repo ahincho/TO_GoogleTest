@@ -1,0 +1,1 @@
+set( LinkedList_TESTS)

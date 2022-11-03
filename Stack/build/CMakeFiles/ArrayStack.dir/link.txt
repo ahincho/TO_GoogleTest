@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ArrayStack.dir/ArrayStack.cc.o -o ArrayStack  lib/libgtest_main.a lib/libgtest.a 

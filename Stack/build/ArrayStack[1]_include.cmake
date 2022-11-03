@@ -1,0 +1,5 @@
+if(EXISTS "/home/julio/Desktop/TO_GTest/Stack/build/ArrayStack[1]_tests.cmake")
+  include("/home/julio/Desktop/TO_GTest/Stack/build/ArrayStack[1]_tests.cmake")
+else()
+  add_test(ArrayStack_NOT_BUILT ArrayStack_NOT_BUILT)
+endif()

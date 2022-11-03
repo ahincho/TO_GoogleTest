@@ -1,0 +1,5 @@
+if(EXISTS "/home/julio/Desktop/TO_GTest/LinkedList/build/LinkedList[1]_tests.cmake")
+  include("/home/julio/Desktop/TO_GTest/LinkedList/build/LinkedList[1]_tests.cmake")
+else()
+  add_test(LinkedList_NOT_BUILT LinkedList_NOT_BUILT)
+endif()
